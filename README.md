@@ -1,1 +1,1 @@
-This is code for fine tuning Gemma-2b model. Gemma-2b model is developed using the same technology as Gemini by the google. 
+This is code for fine tuning Gemma-2b model. Gemma-2b model is developed using the same technology as Gemini by the google. I have finetuned using the PEFT and LORA technology to reduce load on the GPU system. I have used RTX1000 GPU which has 48GB. The dataset was provided by the govtech. This was done to compare the performance of the model with mistral 7b.
